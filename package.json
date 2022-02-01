@@ -1,0 +1,25 @@
+{
+  "name": "project-euler",
+  "version": "0.0.1",
+  "description": "Solutions to the Project Euler problems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrearabaci/project-euler.git"
+  },
+  "keywords": [
+    "project-euler"
+  ],
+  "author": "a.emrearabaci@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emrearabaci/project-euler/issues"
+  },
+  "homepage": "https://github.com/emrearabaci/project-euler#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
